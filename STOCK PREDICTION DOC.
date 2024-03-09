@@ -1,0 +1,18 @@
+Project Name: Stock Price Prediction with LSTMs
+
+Description:
+
+This project delves into the realm of stock price prediction using Long Short-Term Memory (LSTM) networks, a powerful tool in deep learning for handling sequential data like time series. We'll explore how LSTMs can learn long-term dependencies in historical stock prices to generate forecasts for future values.
+
+Prerequisites:
+
+Basic understanding of Python programming
+Familiarity with Jupyter Notebook
+Working knowledge of fundamental machine learning concepts (optional)
+Required Libraries:
+
+pandas: Data manipulation and analysis
+numpy: Numerical computations
+matplotlib: Visualization
+tensorflow or pytorch: Deep learning frameworks (we'll use tensorflow here)
+sklearn.preprocessing: Data preprocessing (optional)
